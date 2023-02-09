@@ -28,4 +28,6 @@ Then Pandas is used to furthere analyze the data and determine if there is a bia
 
 59.09 % of the Vines review are 5 stars whereas 53.64 % of the non-Vines reviews are 5 stars. Since the Vines percentage is quite close to that of the non-Vines, it can be concluded that there is no bias for reviews in the Vines program. In this case, the population for Vines review is considerable smaller in comparison to the non-Vines review. 
 
-Since the sample of Vines review is considerably smaller, all non-zero votes can be taken into the analysis to detrmine the percentage of 5 star reviews.
+Since the sample of Vines review is considerably smaller, all non-zero votes can be taken into the analysis to determine the percentage of 5 star reviews.
+
+In addition, similar analysis can be done for each 'star rating' so we can compare how all the products are rated, not just the 5-star ratings.
